@@ -1,0 +1,306 @@
+mingw32/mingw-w64-i686-angleproject-git 2.1.r5684-1
+    ANGLE project built from git source (mingw-w64)
+mingw32/mingw-w64-i686-ansicon-git 1.70.r65.3acc7a9-2
+    Process ANSI escape sequences for Windows console programs (mingw-w64)
+mingw32/mingw-w64-i686-breakpad-git r1451.8915f7b-1
+    An open-source multi-platform crash reporting system (mingw-w64)
+mingw32/mingw-w64-i686-c99-to-c89-git r169.b3d496d-1
+    Tool to convert C99 code to MSVC-compatible C89 (git) (mingw-w64)
+mingw32/mingw-w64-i686-codelite-git 9.2.144.g1da2670-1
+    Open-source, cross platform IDE for the C/C++ programming languages (mingw-w64)
+mingw32/mingw-w64-i686-crt-git 5.0.0.4745.d2384c2-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 CRT for Windows
+mingw32/mingw-w64-i686-ctpl-git 0.3.3.385.5423b19-1
+    C Template (Parser) Library (mingw-w64)
+mingw32/mingw-w64-i686-daala-git r1373.efb96ed-1
+    Daala is next-next-gen video compression technology from Xiph.org, Mozilla and others (mingw-w64)
+mingw32/mingw-w64-i686-dcadec 0.2.0-1
+    dcadec is a free DTS Coherent Acoustics decoder with support for HD extensions (mingw-w64)
+mingw32/mingw-w64-i686-dcadec-git 0.0.0.207.2a9186e-4
+    dcadec is a free DTS Coherent Acoustics decoder with support for HD extensions (mingw-w64)
+mingw32/mingw-w64-i686-devcon-git r35.818f6ee-1
+    Search for and manipulate devices (mingw-w64)
+mingw32/mingw-w64-i686-firebird2-git 2.5.6.26956.eb67768-1
+    Cross-platform relational database offering many ANSI SQL standard features - version 2.x (mingw-w64)
+mingw32/mingw-w64-i686-git-repo 0.4.10-1 (mingw-w64-i686)
+    The multiple Git repository tool (mingw-w64)
+mingw32/mingw-w64-i686-gitg 3.22.0-1
+    git repository viewer for GTK+/GNOME (mingw-w64)
+mingw32/mingw-w64-i686-glsl-optimizer-git r66854.14946bd-1
+    C++ library that takes GLSL shaders, does some GPU-independent optimizations on them and outputs GLSL back (mingw-w64)
+mingw32/mingw-w64-i686-hclient-git 37.efd8c0a-1
+    Sample GUI for communicating with HIDs (mingw-w64)
+mingw32/mingw-w64-i686-headers-git 5.0.0.4747.0f8f626-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 headers for Windows
+mingw32/mingw-w64-i686-hlsl2glsl-git r802.4df4096-1
+    HLSL to GLSL shader language translator
+mingw32/mingw-w64-i686-kicad-git r5971.ba32ccb-1
+    Software for the creation of electronic schematic diagrams and printed circuit board artwork (mingw-w64)
+mingw32/mingw-w64-i686-libgit2 0.24.0-1
+    A linkable library for Git (mingw-w64)
+mingw32/mingw-w64-i686-libgit2-glib 0.24.4-1
+    A glib wrapper library around the libgit2 git access library (mingw-w64)
+mingw32/mingw-w64-i686-libgphoto2 2.5.10-1
+    libgphoto2 is a free, redistributable, ready to use set of digital camera software applications for Unix-like system. (mingw-w64)
+mingw32/mingw-w64-i686-libmangle-git 5.0.0.4669.7de6266-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 libmangle
+mingw32/mingw-w64-i686-libmodbus-git 658.0e2f470-1
+    A Modbus library for Linux, Mac OS X, FreeBSD, QNX and Win32 (mingw-w64)
+mingw32/mingw-w64-i686-libmongoose-git r1793.41b405d-3
+    Embedded web server for C/C++ (mingw-w64)
+mingw32/mingw-w64-i686-libosmpbf-git 1.3.3.13.g4edb4f0-1
+    A library to support OpenStreetMap's protocolbuffer binary .pbf format (mingw-w64)
+mingw32/mingw-w64-i686-libraw 0.17.1-1
+    Library for reading RAW files obtained from digital photo cameras (mingw-w64)
+mingw32/mingw-w64-i686-libsignal-protocol-c-git r34.16bfd04-1
+    Signal Protocol C Library (mingw-w64)
+mingw32/mingw-w64-i686-libtre-git r122.c2f5d13-4
+    The approximate regex matching library and agrep command line tool (mingw-w64)
+mingw32/mingw-w64-i686-libusb-compat-git r60.072a5e4-3
+    libusb provides generic access to USB devices (mingw-w64)
+mingw32/mingw-w64-i686-libvmime-git r1032.7e36a74-1
+    An open source solution for working with MIME messages and Internet messaging services like IMAP, POP or SMTP (mingw-w64)
+mingw32/mingw-w64-i686-libwinpthread-git 5.0.0.4741.2c8939a-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 winpthreads library
+mingw32/mingw-w64-i686-luabind-git 0.9.1.144.ge414c57-1
+    A library that helps you create bindings between C++ and Lua (mingw-w64)
+mingw32/mingw-w64-i686-luajit-git 2.0.4.49.ga68c411-1
+    Just-in-time compiler and drop-in replacement for Lua 5.1 (mingw-w64)
+mingw32/mingw-w64-i686-nanovg-git r259.6ae0873-1
+    Small antialiased vector graphics rendering library for OpenGL
+mingw32/mingw-w64-i686-ntldd-git r15.e7622f6-2
+    Tracks dependencides in Windows PE binaries (mingw-w64)
+mingw32/mingw-w64-i686-octopi-git r941.6df0f8a-1
+    a powerful Pacman frontend using Qt libs
+mingw32/mingw-w64-i686-ois-git 1.4.0.68.af406d9-1
+    Object Oriented Input System (mingw-w64)
+mingw32/mingw-w64-i686-opencollada-git r1471.9fea0aa-1
+    Stream based reader and writer library for COLLADA files (mingw-w64)
+mingw32/mingw-w64-i686-opencolorio-git 721.de9491e-1
+    A color management framework for visual effects and animation (mingw-w64)
+mingw32/mingw-w64-i686-openocd-git 0.9.0.r2.g79fdeb3-1
+    OpenOCD - Open On-Chip Debugger (mingw-w64)
+mingw32/mingw-w64-i686-osgbullet-debug-git 3.0.0.259-1
+    Bullet physics and OpenSceneGraph integration (mingw-w64)
+mingw32/mingw-w64-i686-osgbullet-git 3.0.0.259-1
+    Bullet physics and OpenSceneGraph integration (mingw-w64)
+mingw32/mingw-w64-i686-osgocean-debug-git 1.0.1.r147-1
+    An ocean rendering nodekit for OpenSceneGraph (mingw-w64)
+mingw32/mingw-w64-i686-osgocean-git 1.0.1.r147-1
+    An ocean rendering nodekit for OpenSceneGraph (mingw-w64)
+mingw32/mingw-w64-i686-osgworks-debug-git 3.1.0.442-1
+    A toolkit for OpenSceneGraph applications (mingw-w64)
+mingw32/mingw-w64-i686-osgworks-git 3.1.0.442-1
+    A toolkit for OpenSceneGraph applications (mingw-w64)
+mingw32/mingw-w64-i686-osmgpsmap-git r443.c24d08d-1
+    A Gtk+ Widget for Displaying OpenStreetMap tiles
+mingw32/mingw-w64-i686-qca-qt4-git 2220.66b9754-1
+    Qt Cryptographic Architecture (mingw-w64)
+mingw32/mingw-w64-i686-qca-qt5-git 2219.4fd11c4-1
+    Qt Cryptographic Architecture (mingw-w64)
+mingw32/mingw-w64-i686-qhull-git r151.5bbc756-1
+    A general dimension code for computing convex hulls and related structures (mingw-w64)
+mingw32/mingw-w64-i686-qt-installer-framework-git r2902.f63d2de-1
+    The Qt Installer Framework used for the Qt SDK installer (mingw-w64)
+mingw32/mingw-w64-i686-rtmpdump-git r512.fa8646d-2
+    A tool to download rtmp streams (mingw-w64)
+mingw32/mingw-w64-i686-shishi-git r3585.51e0f1c-1
+    a GNU implementation of the Kerberos 5 network security system (mingw-w64)
+mingw32/mingw-w64-i686-stxxl-git 1.4.1.343.gf7389c7-2
+    Standard Template Library for Extra Large Data Sets (mingw-w64)
+mingw32/mingw-w64-i686-tools-git 5.0.0.4669.7de6266-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 tools
+mingw32/mingw-w64-i686-universal-ctags-git r2635.80256f4-1
+    A maintained Ctags implementation (mingw-w64)
+mingw32/mingw-w64-i686-usbview-git 42.c4ba9c6-1
+    GUI for browsing all USB controllers and connected USB devices on your computer (mingw-w64)
+mingw32/mingw-w64-i686-vlc-git 3.0.0.61503.1d43e72-1
+    A multi-platform MPEG, VCD/DVD, and DivX player
+mingw32/mingw-w64-i686-winpthreads-git 5.0.0.4741.2c8939a-1 (mingw-w64-i686-toolchain)
+    MinGW-w64 winpthreads library
+mingw32/mingw-w64-i686-x264-git r2721.72d53ab-1
+    Library for encoding H264/AVC video streams (mingw-w64)
+mingw32/mingw-w64-i686-xmlstarlet-git r678.9a470e3-2
+    Command-line XML toolkit
+mingw64/mingw-w64-x86_64-angleproject-git 2.1.r5684-1
+    ANGLE project built from git source (mingw-w64)
+mingw64/mingw-w64-x86_64-ansicon-git 1.70.r65.3acc7a9-2
+    Process ANSI escape sequences for Windows console programs (mingw-w64)
+mingw64/mingw-w64-x86_64-breakpad-git r1451.8915f7b-1
+    An open-source multi-platform crash reporting system (mingw-w64)
+mingw64/mingw-w64-x86_64-c99-to-c89-git r169.b3d496d-1
+    Tool to convert C99 code to MSVC-compatible C89 (git) (mingw-w64)
+mingw64/mingw-w64-x86_64-codelite-git 9.2.144.g1da2670-1
+    Open-source, cross platform IDE for the C/C++ programming languages (mingw-w64)
+mingw64/mingw-w64-x86_64-crt-git 5.0.0.4745.d2384c2-1 (mingw-w64-x86_64-toolchain) [installed]
+    MinGW-w64 CRT for Windows
+mingw64/mingw-w64-x86_64-ctpl-git 0.3.3.385.5423b19-1
+    C Template (Parser) Library (mingw-w64)
+mingw64/mingw-w64-x86_64-daala-git r1373.efb96ed-1
+    Daala is next-next-gen video compression technology from Xiph.org, Mozilla and others (mingw-w64)
+mingw64/mingw-w64-x86_64-dcadec 0.2.0-1
+    dcadec is a free DTS Coherent Acoustics decoder with support for HD extensions (mingw-w64)
+mingw64/mingw-w64-x86_64-dcadec-git 0.0.0.207.2a9186e-4
+    dcadec is a free DTS Coherent Acoustics decoder with support for HD extensions (mingw-w64)
+mingw64/mingw-w64-x86_64-devcon-git r35.818f6ee-1
+    Search for and manipulate devices (mingw-w64)
+mingw64/mingw-w64-x86_64-firebird2-git 2.5.6.26956.c3587aa-1
+    Cross-platform relational database offering many ANSI SQL standard features - version 2.x (mingw-w64)
+mingw64/mingw-w64-x86_64-git-repo 0.4.10-1 (mingw-w64-x86_64)
+    The multiple Git repository tool (mingw-w64)
+mingw64/mingw-w64-x86_64-gitg 3.22.0-1
+    git repository viewer for GTK+/GNOME (mingw-w64)
+mingw64/mingw-w64-x86_64-glsl-optimizer-git r66854.14946bd-1
+    C++ library that takes GLSL shaders, does some GPU-independent optimizations on them and outputs GLSL back (mingw-w64)
+mingw64/mingw-w64-x86_64-hclient-git 37.efd8c0a-1
+    Sample GUI for communicating with HIDs (mingw-w64)
+mingw64/mingw-w64-x86_64-headers-git 5.0.0.4747.0f8f626-1 (mingw-w64-x86_64-toolchain) [installed]
+    MinGW-w64 headers for Windows
+mingw64/mingw-w64-x86_64-hlsl2glsl-git r802.4df4096-1
+    HLSL to GLSL shader language translator
+mingw64/mingw-w64-x86_64-kicad-git r5971.ba32ccb-1
+    Software for the creation of electronic schematic diagrams and printed circuit board artwork (mingw-w64)
+mingw64/mingw-w64-x86_64-libgit2 0.24.0-1
+    A linkable library for Git (mingw-w64)
+mingw64/mingw-w64-x86_64-libgit2-glib 0.24.4-1
+    A glib wrapper library around the libgit2 git access library (mingw-w64)
+mingw64/mingw-w64-x86_64-libgphoto2 2.5.10-1
+    libgphoto2 is a free, redistributable, ready to use set of digital camera software applications for Unix-like system. (mingw-w64)
+mingw64/mingw-w64-x86_64-libmangle-git 5.0.0.4669.7de6266-1 (mingw-w64-x86_64-toolchain)
+    MinGW-w64 libmangle
+mingw64/mingw-w64-x86_64-libmodbus-git 658.0e2f470-1
+    A Modbus library for Linux, Mac OS X, FreeBSD, QNX and Win32 (mingw-w64)
+mingw64/mingw-w64-x86_64-libmongoose-git r1793.41b405d-3
+    Embedded web server for C/C++ (mingw-w64)
+mingw64/mingw-w64-x86_64-libosmpbf-git 1.3.3.13.g4edb4f0-1
+    A library to support OpenStreetMap's protocolbuffer binary .pbf format (mingw-w64)
+mingw64/mingw-w64-x86_64-libraw 0.17.1-1
+    Library for reading RAW files obtained from digital photo cameras (mingw-w64)
+mingw64/mingw-w64-x86_64-libsignal-protocol-c-git r34.16bfd04-1
+    Signal Protocol C Library (mingw-w64)
+mingw64/mingw-w64-x86_64-libtre-git r122.c2f5d13-4
+    The approximate regex matching library and agrep command line tool (mingw-w64)
+mingw64/mingw-w64-x86_64-libusb-compat-git r60.072a5e4-3
+    libusb provides generic access to USB devices (mingw-w64)
+mingw64/mingw-w64-x86_64-libvmime-git r1032.7e36a74-1
+    An open source solution for working with MIME messages and Internet messaging services like IMAP, POP or SMTP (mingw-w64)
+mingw64/mingw-w64-x86_64-libwinpthread-git 5.0.0.4741.2c8939a-1 (mingw-w64-x86_64-toolchain) [installed]
+    MinGW-w64 winpthreads library
+mingw64/mingw-w64-x86_64-luabind-git 0.9.1.144.ge414c57-1
+    A library that helps you create bindings between C++ and Lua (mingw-w64)
+mingw64/mingw-w64-x86_64-luajit-git 2.0.4.49.ga68c411-1
+    Just-in-time compiler and drop-in replacement for Lua 5.1 (mingw-w64)
+mingw64/mingw-w64-x86_64-nanovg-git r259.6ae0873-1
+    Small antialiased vector graphics rendering library for OpenGL
+mingw64/mingw-w64-x86_64-ntldd-git r15.e7622f6-2
+    Tracks dependencides in Windows PE binaries (mingw-w64)
+mingw64/mingw-w64-x86_64-octopi-git r941.6df0f8a-1
+    a powerful Pacman frontend using Qt libs
+mingw64/mingw-w64-x86_64-ois-git 1.4.0.68.af406d9-1
+    Object Oriented Input System (mingw-w64)
+mingw64/mingw-w64-x86_64-opencollada-git r1471.9fea0aa-1
+    Stream based reader and writer library for COLLADA files (mingw-w64)
+mingw64/mingw-w64-x86_64-opencolorio-git 721.de9491e-1
+    A color management framework for visual effects and animation (mingw-w64)
+mingw64/mingw-w64-x86_64-openocd-git 0.9.0.r2.g79fdeb3-1
+    OpenOCD - Open On-Chip Debugger (mingw-w64)
+mingw64/mingw-w64-x86_64-osgbullet-debug-git 3.0.0.259-1
+    Bullet physics and OpenSceneGraph integration (mingw-w64)
+mingw64/mingw-w64-x86_64-osgbullet-git 3.0.0.259-1
+    Bullet physics and OpenSceneGraph integration (mingw-w64)
+mingw64/mingw-w64-x86_64-osgocean-debug-git 1.0.1.r147-1
+    An ocean rendering nodekit for OpenSceneGraph (mingw-w64)
+mingw64/mingw-w64-x86_64-osgocean-git 1.0.1.r147-1
+    An ocean rendering nodekit for OpenSceneGraph (mingw-w64)
+mingw64/mingw-w64-x86_64-osgworks-debug-git 3.1.0.442-1
+    A toolkit for OpenSceneGraph applications (mingw-w64)
+mingw64/mingw-w64-x86_64-osgworks-git 3.1.0.442-1
+    A toolkit for OpenSceneGraph applications (mingw-w64)
+mingw64/mingw-w64-x86_64-osmgpsmap-git r443.c24d08d-1
+    A Gtk+ Widget for Displaying OpenStreetMap tiles
+mingw64/mingw-w64-x86_64-qca-qt4-git 2220.66b9754-1
+    Qt Cryptographic Architecture (mingw-w64)
+mingw64/mingw-w64-x86_64-qca-qt5-git 2219.4fd11c4-1
+    Qt Cryptographic Architecture (mingw-w64)
+mingw64/mingw-w64-x86_64-qhull-git r151.5bbc756-1
+    A general dimension code for computing convex hulls and related structures (mingw-w64)
+mingw64/mingw-w64-x86_64-qt-installer-framework-git r2902.557c96f-1
+    The Qt Installer Framework used for the Qt SDK installer (mingw-w64)
+mingw64/mingw-w64-x86_64-rtmpdump-git r512.fa8646d-2
+    A tool to download rtmp streams (mingw-w64)
+mingw64/mingw-w64-x86_64-shishi-git r3585.51e0f1c-1
+    a GNU implementation of the Kerberos 5 network security system (mingw-w64)
+mingw64/mingw-w64-x86_64-stxxl-git 1.4.1.343.gf7389c7-2
+    Standard Template Library for Extra Large Data Sets (mingw-w64)
+mingw64/mingw-w64-x86_64-tools-git 5.0.0.4669.7de6266-1 (mingw-w64-x86_64-toolchain)
+    MinGW-w64 tools
+mingw64/mingw-w64-x86_64-universal-ctags-git r2635.80256f4-1
+    A maintained Ctags implementation (mingw-w64)
+mingw64/mingw-w64-x86_64-usbview-git 42.c4ba9c6-1
+    GUI for browsing all USB controllers and connected USB devices on your computer (mingw-w64)
+mingw64/mingw-w64-x86_64-vlc-git 3.0.0.61503.1d43e72-1
+    A multi-platform MPEG, VCD/DVD, and DivX player
+mingw64/mingw-w64-x86_64-winpthreads-git 5.0.0.4741.2c8939a-1 (mingw-w64-x86_64-toolchain) [installed]
+    MinGW-w64 winpthreads library
+mingw64/mingw-w64-x86_64-x264-git r2721.72d53ab-1
+    Library for encoding H264/AVC video streams (mingw-w64)
+mingw64/mingw-w64-x86_64-xmlstarlet-git r678.9a470e3-2
+    Command-line XML toolkit
+msys/colormake-git r8.9c1d2e6-1
+    Colorized build output
+msys/conemu-git r3330.34a88ed-1
+    Customizable Windows console emulator with tabs
+msys/crosstool-ng-git 1.19.314.a483cd9-1
+    A cross-platform open-source toolchain system
+msys/depot-tools-git r2542.77b74b5-1
+    Build tools for working with Chromium development, include gclient
+msys/easyoptions-git r37.c481763-1
+    Easy option parsing for Ruby and Bash
+msys/elinks-git 0.13.3953.3688bb9-1 (net-utils)
+    Full-Featured Text WWW Browser (net-utils)
+msys/git 2.10.1-1 (VCS)
+    The fast distributed version control system
+msys/git-bzr-ng-git r61.9878a30-1
+    Bi-directional Git-to-Bzr bridge
+msys/git-flow 1.10.1-1
+    Git extensions to provide high-level repository operations for Vincent Driessen's branching model (AVH edition)
+msys/gyp-git r2097.691cecc-1
+    GYP can Generate Your Projects.
+msys/jhbuild-git 8206.7f97721-1
+    Downloads and compiles Gnome "modules", i.e. source code packages.
+msys/libtre-devel-git 0.8.0.122.c2f5d13-1 (development)
+    Libtre headers and libraries (development)
+msys/libtre-git 0.8.0.122.c2f5d13-1 (libraries)
+    The free and portable approximate regex matching library (libraries)
+msys/make-git 4.1.8.g292da6f-1
+    GNU make utility to maintain groups of programs
+msys/mingw-w64-cross-crt-clang-git 5.0.0.4631.3deeda3-1
+    MinGW-w64 CRT for cross-compiler
+msys/mingw-w64-cross-crt-git 5.0.0.4624.4c13e3f-1 (mingw-w64-cross-toolchain mingw-w64-cross)
+    MinGW-w64 CRT for cross-compiler
+msys/mingw-w64-cross-headers-git 5.0.0.4624.4c13e3f-1 (mingw-w64-cross-toolchain mingw-w64-cross)
+    MinGW-w64 headers for cross-compiler
+msys/mingw-w64-cross-tools-git 5.0.0.4592.90b8472-1 (mingw-w64-cross-toolchain mingw-w64-cross)
+    MinGW-w64 headers for cross-compiler
+msys/mingw-w64-cross-winpthreads-git 5.0.0.4574.ce1ad45-1 (mingw-w64-cross-toolchain mingw-w64-cross)
+    MinGW-w64 winpthreads library for cross-compiler
+msys/mingw-w64-cross-winstorecompat-git 5.0.0.4501.4421b4a-1 (mingw-w64-cross-toolchain mingw-w64-cross)
+    MinGW-w64 winRT compat library
+msys/msys2-launcher-git 0.3.32.56c2ba7-2 (base) [installed]
+    Helper for launching MSYS2 shells
+msys/pactoys-git r2.07ca37f-1 (base base-devel) [installed]
+    A set of pacman packaging utilities
+msys/pax-git 20140703.2.1.g469552a-1 (base) [installed]
+    POSIX standard archive tool
+msys/remake-git 4.1.2943.f059924-1
+    Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
+msys/ssh-pageant-git 1.4.4.gf09e76e-1
+    An SSH authentication agent for Cygwin/MSYS to PuTTY's Pageant
+msys/tig 2.1.1-1
+    Text-mode interface for Git.
+msys/tmux-git 2.1.263.g5083e93-1
+    A terminal multiplexer
+msys/vimpager-git r279.bc5548d-1
+    Use ViM as PAGER
+msys/znc-git r4470.9b31a07-1
+    An IRC bouncer with modules & scripts support
